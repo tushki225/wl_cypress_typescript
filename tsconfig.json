@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "baseUrl": "https://todomvc.com/examples/react/dist/",
+    "types": ["cypress", "@testing-library/cypress"]
+  },
+  "include": ["**/*.ts"],
+  "sourceMap": false,
+  "types": ["cypress", "chai"],
+  "files": [
+    "cypress.config.ts"
+  ]
+}

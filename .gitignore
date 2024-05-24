@@ -1,0 +1,5 @@
+node_modules/
+**/cypress/results/
+**/cypress/downloads/
+**/cypress/screenshots/
+.DS_Store

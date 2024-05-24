@@ -1,0 +1,15 @@
+{
+  "url": "https://todomvc.com/examples/react/dist/",
+  "homePageTitle": "TodoMVC: React",
+  "addTodo": {
+    "first": "Sample todo1",
+    "second": "Sample todo2",
+    "third": "Sample todo3"
+  },
+  "editName":"SampleNewName",
+
+  "specialCharacters": {
+    "input": "dds<>?{}:}}",
+    "output": "dds&lt;&gt;?{}:}}"
+  }
+}
