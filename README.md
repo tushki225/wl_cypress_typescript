@@ -56,8 +56,8 @@
 ### Step 2: Repository clone and setup dependencies
 
 ```
-$ git clone 
-$ cd CypressTypescript
+$ git clone https://github.com/tushki225/wl_cypress_typescript.git
+$ cd wl_cypress_typescript
 $ npm install
 ```
 
@@ -72,6 +72,9 @@ Two ways to execute tests (From repository folder)
 2. Script that will be executed from command line:
 
     $ npm run test:chrome    (For chrome)
+
     $ npm run test:firefox   (For firefox)
+
     $ npm run test:edge      (For edge)
+    
     $ npm run test:electron  (For electron)
