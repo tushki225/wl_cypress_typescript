@@ -1,7 +1,7 @@
 {
   "name": "wl_cypress_typescript_regression",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cypress with Typescript with mochawesome",
   "main": "index.js",
   "scripts": {
     "test:chrome": "npx cypress run --spec=./cypress/e2e/tests/TodoTask.cy.ts --browser chrome",

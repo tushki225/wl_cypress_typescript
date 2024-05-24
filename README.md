@@ -11,6 +11,7 @@
     7. CI/CD: Not covered due to time limitation and out of problem scope
     8. Execution Video - cypress/videos/*.mp4 
     9. Tests can be executed on Windows and Mac but not sure about Linux(not tested)
+    10. Can be executed on different browsers like chrome, firefox, edge and electron
 
 
 ### Test Cases covered

@@ -14,10 +14,9 @@ import {
 } from "../pages/TodoHomePage";
 
 describe("WL - To do Task Regression", () => {
-
   let todoName : [], special : [];;
-  
   let editName:string;
+  
   beforeEach(() => {
     //Get input data from fixtures
     cy.fixture("data.json").then((input) => {
